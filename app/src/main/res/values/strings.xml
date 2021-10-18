@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Files</string>
+
+    <string name="channel_number_of_matches">Number of matches</string>
+
+    <string name="storage_permission_not_granted">Storage permission not granted</string>
+    <string name="grant">Grant</string>
+    <string name="highlight_filename">Highlight filename</string>
+    <string name="sort">Sort</string>
+    <string name="file_saved_s">File saved: %s</string>
+    <string name="error_saving_file">Error saving file</string>
+    <string name="file_not_found">File not found</string>
+    <string name="no_preview_available">No preview available</string>
+    <string name="size">Size</string>
+    <string name="creation_time">Creation time</string>
+    <string name="last_modified_time">Last modified time</string>
+    <string name="path">Path</string>
+    <string name="number_of_matches_d">Number of matches: %d</string>
+    <string name="sort_by">Sort by</string>
+    <string name="filename">Filename</string>
+    <string name="extension">Extension</string>
+
+    <string name="placeholder_empty">-</string>
+    <string name="content_description_file_preview">File preview</string>
+</resources>
